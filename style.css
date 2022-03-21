@@ -81,7 +81,10 @@ header nav ul li a:hover {
 }
 #menu {
   display: flex;
+  padding: 0;
+  justify-content: space-around;
 }
+
 
 /* -------  Join Form ------- */
 form {
@@ -125,7 +128,7 @@ footer p {
 }
 
 /* -------  Media Query ------- */
-@media all and (min-width: 800px) {
+@media all and (min-width: 480px) {
   header {
     display: flex;
     flex-direction: row;
@@ -141,6 +144,7 @@ footer p {
   }
   .formdiv {
     margin-top: 10%;
+    width: 30%;
   }
   .aboutimage1 {
     width: 25%;
