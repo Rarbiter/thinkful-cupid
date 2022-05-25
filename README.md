@@ -108,3 +108,5 @@ Within the media query, write CSS to create the following designs for desktop:
 ![Download desktop](./images/download-desktop.png)
 
 - The blog posts in the "Blog" section should be displayed in a 2 by 2 grid (see the desktop design shared above)
+
+This is an online and mobile project that was worked on multiple times. It was a fun project to work on using visual studio code. It really allowed me to work on a lot of HTML and CSS properties along with using Bootstrap.  
